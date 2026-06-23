@@ -1,6 +1,4 @@
-# maaahm
-
-**Hey there, I'm Natalie.**
+# Hey there, I'm Natalie.
 
 I once ran a BBS where I hosted LORD. 
 
